@@ -3,8 +3,8 @@
 本项目会介绍GDEIVPN的全平台安装和使用方法，通过VPN连接方式以实现在校外网络环境访问学校内网资源（如教务系统，课程表等）
 
 ## 1. 下载 Hillstone Secure Connect 客户端
-1. 访问山石网科官方下载页面，获取最新版 VPN 客户端。
-2. 下载链接：[Hillstone Secure Connect 下载页](https://www.hillstonenet.com.cn/support-and-training/hillstone-secure-connect/)
+1. 访问右侧Release或者山石网科官方下载页面，获取最新版 VPN 客户端。
+2. 官方下载链接：[Hillstone Secure Connect 下载页](https://www.hillstonenet.com.cn/support-and-training/hillstone-secure-connect/)
 3. 根据自身设备操作系统（Windows/macOS 等），选择对应版本安装包下载。
 
 
